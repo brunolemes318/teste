@@ -1,5 +1,5 @@
 import sum from "./my-math.js";
 
-test("adds 1 + 2 to equal 3", () => {
+test("teste de função", () => {
   expect(sum(1, 2)).toBe(3);
 });
